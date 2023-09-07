@@ -95,11 +95,11 @@
 
   "characters.werewolf.name": "Loup-Garou",
   "characters.werewolf.special1.name": "Rage",
-  "characters.werewolf.special1.description": "<p><i>Le loup-garou ferme sa mâchoire puissante sur sa proie.</i></p><p><b>Défense</b></p><p>(Cible) +2 <b>Dégâts</b></p>",
+  "characters.werewolf.special1.description": "<p><i>Le loup-garou ferme sa mâchoire puissante sur sa proie.</i></p><p><b>Attaque</b></p><p>(Cible) +2 <b>Dégâts</b></p>",
   "characters.werewolf.special2.name": "Tremblement de terre",
   "characters.werewolf.special2.description": "<p><i>Les murs du repaire tremblent lorsque le loup-garou frappe le sol avec ses poings.</i></p><p><b>Défense</b></p><p>(Tous) +1 jeton <b>IMMOBILISATION</b></p>",
   "characters.werewolf.special3.name": "Fou de rage",
-  "characters.werewolf.special3.description": "<p><i>La bête frappe l'air de ses griffes anormalement longues et acérées comme des rasoirs.</i></p><p><b>Défense</b></p><p>(Toute cible adjacente) +4 <b>Dégâts</b></p>",
+  "characters.werewolf.special3.description": "<p><i>La bête frappe l'air de ses griffes anormalement longues et acérées comme des rasoirs.</i></p><p><b>Attaque</b></p><p>(Toute cible adjacente) +4 <b>Dégâts</b></p>",
   "characters.werewolf.special4.name": "Choc de terre",
   "characters.werewolf.special4.description": "<p><i>Le sol tremble sous les pas de la bête.</i></p><p><b>Défense</b></p><p>(Tous) +1 jeton <b>IMMOBILISATION</b></p>",
 
@@ -393,7 +393,7 @@
   "characters.4thGhoul.special1.name": "Coup nuisant",
   "characters.4thGhoul.special1.description": "<p>Cible : Initiative la plus basse</p><p><i>Dites adieu à vos tibias.</i></p><b>Attaque</b><p>(Cible) +1 <b>Dégât</b>, -1 <b>Initiative</b>.</p>",
 
-  "characters.bettyDuhamel.name": "Betty Dunhamel",
+  "characters.bettyDuhamel.name": "Betty Duhamel",
   "characters.bettyDuhamel.special1.name": "Réflexes rapides",
   "characters.bettyDuhamel.special1.description": "<p>Cible : Initiative la plus haute</p><p><i>La harpie frappe avec l'habitation d'un maître des arts martiaux.</i></p><b>Attaque</b><p>(Soi) +1 <b>Déplacement</b>,</p><p>(Cible) -2 <b>Initiative</b>.</p>",
   "characters.bettyDuhamel.special2.name": "Clairvoyance",
